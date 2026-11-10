@@ -1,0 +1,8 @@
+.env
+venv/
+.venv/
+__pycache__/
+*.pyc
+agrisense.db
+*.db
+.DS_Store
